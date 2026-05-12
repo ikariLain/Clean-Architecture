@@ -1,0 +1,30 @@
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\bin\Debug\net10.0\MyApp.Application.deps.json
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\bin\Debug\net10.0\MyApp.Application.dll
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\bin\Debug\net10.0\MyApp.Application.pdb
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\bin\Debug\net10.0\MyApp.Domain.dll
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\bin\Debug\net10.0\MyApp.Domain.pdb
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\MyApp.Application.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\MyApp.Application.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\MyApp.Application.AssemblyInfo.cs
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\MyApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\MyApp.Ap.B540CA8A.Up2Date
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\MyApp.Application.dll
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\refint\MyApp.Application.dll
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\MyApp.Application.pdb
+C:\Users\Matheus\source\vc\.NET\Examensarbete\MyApp.Application\obj\Debug\net10.0\ref\MyApp.Application.dll
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\bin\Debug\net10.0\MyApp.Application.deps.json
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\bin\Debug\net10.0\MyApp.Application.dll
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\bin\Debug\net10.0\MyApp.Application.pdb
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\bin\Debug\net10.0\MyApp.Domain.dll
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\bin\Debug\net10.0\MyApp.Domain.pdb
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\MyApp.Application.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\MyApp.Application.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\MyApp.Application.AssemblyInfo.cs
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\MyApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\MyApp.Ap.B540CA8A.Up2Date
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\MyApp.Application.dll
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\refint\MyApp.Application.dll
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\MyApp.Application.pdb
+C:\Users\Matheus\source\vc\.NET\Clean Architecture\MyApp.Application\obj\Debug\net10.0\ref\MyApp.Application.dll
