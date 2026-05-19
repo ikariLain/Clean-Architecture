@@ -1,0 +1,48 @@
+## Ignore build outputs
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs and test results
+*.log
+logs/
+TestResults/
+*.trx
+*.coverage
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User secrets and development config
+secrets.json
+appsettings.Development.json
+
+# Publishing
+publish/
+
+# Generated files
+Generated/
+
+# Other
+*.vsix
+*.cache
