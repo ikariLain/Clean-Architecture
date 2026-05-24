@@ -36,6 +36,14 @@ public class AddressTests
     }
 
     [Fact]
+    public void Create_WithEmptyPostalCode_ShouldThrow()
+    {
+        // Arrange, Act & Assert
+        Assert.Throws<ArgumentException>(() =>
+            Address.Create("Main Street 123", "Stockholm", "Stockholm", "", "Sweden"));
+    }
+
+    [Fact]
     public void TwoAddressesWithSameValues_ShouldBeEqual()
     {
         // Arrange
