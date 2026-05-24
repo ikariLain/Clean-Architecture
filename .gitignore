@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-bin/
-obj/
-.vs/
-.idea/
-*.user
-*.suo
-TestResults/
-*.coverage
-*.coveragexml
-=======
 ## Ignore build outputs
 **/bin/
 **/obj/
@@ -39,14 +28,14 @@ logs/
 TestResults/
 *.trx
 *.coverage
+*.coveragexml
 
 # OS generated files
 .DS_Store
 Thumbs.db
 
-# User secrets and development config
+# User secrets and local development config
 secrets.json
-appsettings.Development.json
 
 # Publishing
 publish/
@@ -57,4 +46,3 @@ Generated/
 # Other
 *.vsix
 *.cache
->>>>>>> 9c29bebc645db8a88966e94b39f22a89856fbf3b
