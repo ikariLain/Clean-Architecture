@@ -10,6 +10,10 @@ Detta är en moderna .NET 10-implementering av **Clean Architecture**-principern
 - Beroenden som pekar inåt mot Domain
 - Praktiska trade-offs mellan arkitektur-mönster
 
+## GitHub
+
+Repository: [https://github.com/ikariLain/Clean-Architecture](https://github.com/ikariLain/Clean-Architecture)
+
 ## 📚 Dokumentation
 
 Denna mapp innehåller:

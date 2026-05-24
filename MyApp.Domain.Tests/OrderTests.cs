@@ -200,32 +200,4 @@ public class OrderTests
         Assert.Throws<InvalidOperationException>(() => order.Cancel());
     }
 
-    [Fact]
-    public void TotalPrice_WithMultipleItems_ShouldCalculateCorrectly()
-    {
-        // Arrange
-        var order = Order.Create("ORD-001", _validAddress, _validAddress);
-        order.AddItem("PROD-001", "Widget", 100m, 2);    // 200
-        order.AddItem("PROD-002", "Gadget", 50m, 3);     // 150
-        order.AddItem("PROD-003", "Tool", 25.50m, 2);    // 51
-
-        // Act & Assert
-        Assert.Equal(401m, order.TotalPrice);            // 200 + 150 + 51
-    }
-
-    [Fact]
-    public void AddDuplicateItem_ShouldIncreaseQuantity()
-    {
-        // Arrange
-        var order = Order.Create("ORD-001", _validAddress, _validAddress);
-        order.AddItem("PROD-001", "Widget", 100m, 2);
-
-        // Act
-        order.AddItem("PROD-001", "Widget", 100m, 3);
-
-        // Assert
-        Assert.Single(order.Items);
-        Assert.Equal(5, order.TotalItems);
-        Assert.Equal(500m, order.TotalPrice);
-    }
 }

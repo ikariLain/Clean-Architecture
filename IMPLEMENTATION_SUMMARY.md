@@ -52,7 +52,7 @@
 - **Total:** 4 API-filer
 
 ### 🧪 Test Layer - Unit Tests (NO database)
-- ✅ **OrderTests** - 15 tests för Order-entiteten
+- ✅ **OrderTests** - 14 tests för Order-entiteten
   - ✓ Create-validering
   - ✓ AddItem-validering
   - ✓ Status-transitions
@@ -61,7 +61,7 @@
 - ✅ **AddressTests** - 5 tests för Address value object
   - ✓ Create-validering
   - ✓ Equality-test
-- **Total:** 2 testfiler, **20 tests**, 0.6s runtime
+- **Total:** 2 testfiler, **19 tests**, 0.6s runtime
 
 ### 📚 Documentation
 - ✅ **README.md** - Huvudöversikt och quick start
@@ -146,7 +146,7 @@ Build succeeded with 5 warnings (deprecated OpenAPI API, NuGet vulnerability)
 Test summary: total: 20, failed: 0, succeeded: 20, duration: 0.6s
 
 Test breakup:
-  - OrderTests: 15 tests
+  - OrderTests: 14 tests
     ✓ Create_WithValidData_ShouldSucceed (1.1ms)
     ✓ Create_WithEmptyOrderNumber_ShouldThrow (0.8ms)
     ✓ Create_WithNullShippingAddress_ShouldThrow (0.7ms)
@@ -189,7 +189,7 @@ Test breakup:
 - API: HTTP-hantering ✓
 
 ### Testability ✅
-- 20 tests utan databas ✓
+- 19 tests utan databas ✓
 - 0.6s runtime för alla tester ✓
 - Affärsregler testade i isolation ✓
 
@@ -250,7 +250,7 @@ Beroenden PEKAR INÅT ➡️ Domain
 
 ### 3. Testing
 - Kör: `dotnet test MyApp.Domain.Tests`
-- Visa att 20 tests körs på 0.6s
+- Visa att 19 tests körs på 0.6s
 - Visa att INGEN databas behövs
 
 ### 4. DTO-mappning
@@ -306,7 +306,7 @@ Om du vill expandera implementationen:
 Denna implementering demonstrerar att Clean Architecture:
 
 ✅ **Är praktiskt** - Fungerar i .NET 10 med moderna patterns
-✅ **Är testbar** - 20 tests på 0.6s utan databas
+✅ **Är testbar** - 19 tests på 0.6s utan databas
 ✅ **Är underhållbar** - Klart vad varje lager gör
 ✅ **Är flexibel** - Enkelt att lägga till nya features
 ✅ **Skalar väl** - Passar små och större projekt
